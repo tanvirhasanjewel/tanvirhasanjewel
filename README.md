@@ -24,7 +24,7 @@
 
 <p align="left">
   
-🌱 I’m currently learning GraphQl, AWS, Docker
+🌱 I’m currently learning Flutter
 <br><br>
 👨💻 All of my projects are available at tanvirhasanjewel.com/projects
 <br><br>
