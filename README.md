@@ -30,7 +30,7 @@
 - 🌱 Learning **Advanced React Patterns and Microservices**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, and Web Performance**
-- 👨💻 All of my projects are available at **[Tanvir Hasan Jewel](https://mail.google.com/mail/u/1/#inbox)**
+- 👨💻 All of my projects are available at **[Tanvir Hasan Jewel](https://www.tanvirhasanjewel.com)**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 - 📫 How to reach me **[tanvirhasanjewel@gmail.com](https://mail.google.com/mail/u/1/#inbox)**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1cfkqIbPws_pN61tytvAv4rsGKWO9M17N/view?usp=sharing)**
@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="center">🛠 Tech Stack Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🛠 Tech Stack ⚒️</h2>
 
 ###
 
