@@ -202,10 +202,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirhasanjewel&theme=react-dark" />
 </div>
 
-<br/><br/>
+### <h2 align="center"> 🏆 GitHub Trophies </h>
 
-###
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanvirhasanjewel&theme=onedark&no-frame=true&row=1&column=7" />
+</div>
 
+### <h2 align="center"> 📝 Latest Blog Posts </h>
 
-###
+<!-- BLOG-POST-LIST:START -->
+- [Understanding React Hooks: A Comprehensive Guide](https://tanvirhasanjewel.com/blog/react-hooks-guide)
+- [Building Scalable Node.js Applications](https://tanvirhasanjewel.com/blog/scalable-nodejs)
+- [Flutter vs React Native: Which One to Choose?](https://tanvirhasanjewel.com/blog/flutter-vs-react-native)
+<!-- BLOG-POST-LIST:END -->
 
+### <h2 align="center"> 🎵 Currently Listening </h>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+
+---
+
+⭐️ From [tanvirhasanjewel](https://github.com/tanvirhasanjewel)
