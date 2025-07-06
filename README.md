@@ -32,7 +32,7 @@
 - 💬 Ask me about **React, Node.js, and Web Performance**
 - 👨💻 All of my projects are available at **[Tanvir Hasan Jewel](https://mdtanvirhasanjewel.netlify.app/)**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
-- 📫 How to reach me **[tanvirhasanjewel@gmail.com](tanvirhasanjewel@gmail.com)**
+- 📫 How to reach me **[tanvirhasanjewel@gmail.com](https://mdtanvirhasanjewel.netlify.app/)**
 - 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1zB2Zc33Elv4aOXR4dq6ySj9k8lDnnxgr/view?usp=drive_link)**
 
 ###
